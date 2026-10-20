@@ -14,6 +14,10 @@ for<br>
 **Submission: month, DD, YYYY**
 </center>
 
+## Other Pages
+* https://wknaggs.github.io/wknaggs_RAS304_F26/02-Component-Selection/Component-Selection/
+* https://wknaggs.github.io/wknaggs_RAS304_F26/05-Power-Budget/Power-Budget/
+
 ## Introduction
 
 * This needs to be updated so that a reader gets an idea of the purpose of this datasheet.
