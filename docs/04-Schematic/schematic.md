@@ -8,7 +8,7 @@ This schematic is design to support control of a motor through an H bridge being
 
 
 ![schematic](../04-Schematic/Schematic304.png)
-**Figure 01:** Showing the subsystem schematic. the image isnt working 2
+**Figure 01:** Showing the subsystem schematic. the image isnt working 3
 
 
 ## Resouces
