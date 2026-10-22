@@ -4,13 +4,13 @@ title: Schematic
 
 ## Overview
 
-This schematic is design to support .... (highlight functionally, power, and controller).
+This schematic is design to support control of a motor through an H bridge being controlled by a PWM signal from a microcontroller. It uses an LC filter to minimize wear from PWM control by using an analog Voltage. 
 
 
-![schematic](Screenshot.png){style width:"350" height:"300;"}
+![schematic](Schematic304.png){style width:"350" height:"300;"}
 **Figure ##:** Showing a example schematic.
 
 
 ## Resouces
 
-The schematic as a PDF download is available [*here*](ExampleSchematic.pdf), and the Zip folder of the project [*here*](dummyZip.zip).
+The schematic as a PDF download is available [*here*](Subsystem RAS 304.pdf), and the Zip folder of the project [*here*](Subsystem RAS 304.zip).
