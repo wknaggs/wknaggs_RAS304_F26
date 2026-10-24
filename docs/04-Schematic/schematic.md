@@ -7,8 +7,8 @@ title: Schematic
 This schematic is design to support control of a motor through an H bridge being controlled by a PWM signal from a microcontroller. It uses an LC filter to minimize wear from PWM control by using an analog Voltage. 
 
 
-![schematic](./Schematic304.png)
-**Figure 01:** Showing the subsystem schematic.
+![schematic](image.png)
+**Figure 01:** Showing the subsystem schematic. test
 
 
 ## Resouces
